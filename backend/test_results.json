@@ -1,0 +1,70 @@
+{
+  "timestamp": "2025-12-16T17:41:55.066052",
+  "gemini": {
+    "status": "ALL_FAILED",
+    "models": {
+      "gemini-pro": {
+        "status": "NOT_FOUND",
+        "error": "Model not found"
+      },
+      "gemini-1.5-flash": {
+        "status": "NOT_FOUND",
+        "error": "Model not found"
+      },
+      "gemini-1.5-pro": {
+        "status": "NOT_FOUND",
+        "error": "Model not found"
+      },
+      "gemini-2.0-flash": {
+        "status": "QUOTA_EXCEEDED",
+        "error": "API quota exceeded"
+      },
+      "gemini-2.0-flash-exp": {
+        "status": "QUOTA_EXCEEDED",
+        "error": "API quota exceeded"
+      }
+    }
+  },
+  "groq": {
+    "status": "AUTH_FAILED",
+    "models": {}
+  },
+  "claude": {
+    "status": "PARTIALLY_WORKING (1 of 4)",
+    "models": {
+      "claude-3-5-sonnet-20241022": {
+        "status": "NOT_FOUND",
+        "error": "Model not found"
+      },
+      "claude-3-haiku-20240307": {
+        "status": "WORKING",
+        "response_sample": "Hello."
+      },
+      "claude-3-opus-20240229": {
+        "status": "NOT_FOUND",
+        "error": "Model not found"
+      },
+      "claude-3-sonnet-20240229": {
+        "status": "NOT_FOUND",
+        "error": "Model not found"
+      }
+    }
+  },
+  "ollama": {
+    "status": "WORKING (3 of 3)",
+    "models": {
+      "llama3.2:latest": {
+        "status": "WORKING",
+        "response_sample": "Hello."
+      },
+      "qwen3-coder:480b-cloud": {
+        "status": "WORKING",
+        "response_sample": "Hello!"
+      },
+      "gpt-oss:120b-cloud": {
+        "status": "WORKING",
+        "response_sample": "Hi"
+      }
+    }
+  }
+}

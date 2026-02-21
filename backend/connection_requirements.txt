@@ -1,0 +1,17 @@
+# CoreAstra Connection Manager - Backend Dependencies
+# Python 3.10+ required
+
+# Flask Framework
+flask==3.0.0
+flask-cors==4.0.0
+Werkzeug==3.0.1
+
+# SSH/SFTP Support
+paramiko==3.4.0
+cryptography==41.0.7
+
+# Configuration
+python-dotenv==1.0.1
+
+# Utilities
+python-dateutil==2.8.2
