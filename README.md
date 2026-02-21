@@ -2,8 +2,6 @@
 
 ## AI-Powered Terminal & Intelligent Control Interface
 
-![CoreAstra Logo](https://via.placeholder.com/200x200?text=CoreAstra)
-
 ### Professional-grade GUI application combining a smart terminal with multi-AI chat interface
 
 ---
@@ -244,21 +242,4 @@ The system automatically detects and warns about:
 
 ---
 
-## 🤝 Contributing
 
-This project is proprietary software owned by GROWEAGLES TECHSOUL PRIVATE LIMITED (TECHSOUL).
-
----
-
-## 📄 License & Ownership
-
-© GROWEAGLES TECHSOUL PRIVATE LIMITED (TECHSOUL)
-
-All code, designs, workflows, and documentation are owned by TECHSOUL.
-Any unauthorized usage or distribution is prohibited.
-
----
-
-## 🆘 Support
-
-For support, please contact GROWEAGLES TECHSOUL PRIVATE LIMITED.
